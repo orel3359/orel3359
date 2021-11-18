@@ -2,7 +2,7 @@
 �Я интересуюсь программированием.
 Я работаю один.
 🌱Я учусь в пятом классе.
-📫Мой телефон 89222338704
+📫Мой телефон 
 
 <!---
 orel3359/orel3359 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
